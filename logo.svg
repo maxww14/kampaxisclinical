@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 82" role="img" aria-label="Kamp Axis Clinical">
+<rect width="330" height="82" fill="none"/>
+<g transform="translate(4 7)">
+<path d="M8 55 30 5h14l17 50H48l-4-12H27l-5 12H8Zm23-24h9l-4-13-5 13Z" fill="#0a2342"/>
+<path d="M42 55 66 5h12L58 55H42Z" fill="#10b7bd"/>
+<path d="M61 55 83 5h13l18 50H101l-4-12H80l-5 12H61Zm23-24h9l-4-13-5 13Z" fill="#0a2342"/>
+</g>
+<text x="128" y="32" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="800" letter-spacing="3" fill="#0a2342">KAMP AXIS</text>
+<text x="129" y="54" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="5" fill="#0b9ea8">CLINICAL</text>
+<text x="130" y="70" font-family="Arial,Helvetica,sans-serif" font-size="8.5" letter-spacing="1.1" fill="#5d7185">THE AXIS OF CLINICAL DATA.</text>
+</svg>
